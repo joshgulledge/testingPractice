@@ -1,4 +1,3 @@
-const { TestScheduler } = require('@jest/core');
 const sum = require('./sum');
 
 test('should add two numbers together and return the sum', ()=>{
